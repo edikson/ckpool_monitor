@@ -5,5 +5,6 @@ I welcome and constructive comments and tips that may help as I'm really new to 
 
 Long term this will be getting a full window gui and the whole treatment. 
 
-Next week I'll be finishing up the database calls and builds after that I will be building out the functions to poll for the pool and user stats, from there it's GUI time.
+I do believe the database calls are finisherd though there is some cleanup I'd like to do that I think would be appropriate or at least be helpful, have to do some digging to see if it's worth doing. 
 
+Next week on 13 November I'll be starting into the web calls to get pool and user stats from ckpool so join and laugh at my deranged mumbling to myself. 
