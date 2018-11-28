@@ -1,3 +1,5 @@
+#problem in blocks_to_get and push_blocks functions is in progress
+
 import requests, pool_db, json, datetime
 from HTMLParser import HTMLParser
 
